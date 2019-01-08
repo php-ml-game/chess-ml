@@ -12,6 +12,11 @@
         "vimeo/psalm": "^2",
         "phpunit/phpunit": "^7"
     },
+    "autoload": {
+        "psr-4": {
+            "Phpmlgame\\Chessml\\": "./src" 
+        }
+    }
     "config": {
         "preferred-install": "dist",
         "optimize-autoloader": true,
