@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<psalm name="Chess ML Psalm Configuration"
+<psalm name="Chess Machine Learning Psalm Configuration"
        useDocblockTypes="true"
        totallyTyped="true">
     <projectFiles>
