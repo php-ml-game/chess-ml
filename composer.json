@@ -1,1 +1,21 @@
-
+{
+    "name": "php-ml-game/chess-ml",
+    "description": "Chess machine learning library.",
+    "keywords": [],
+    "type": "library",
+    "license": "proprietary",
+    "require": {
+        "php": ">=7.2",
+        "php-ml-game/composer-warmup": "^1.0"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^2",
+        "phpunit/phpunit": "^7"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "prefer-stable": true
+}
