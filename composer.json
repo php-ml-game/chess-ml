@@ -6,7 +6,7 @@
     "license": "proprietary",
     "require": {
         "php": ">=7.2",
-        "php-ml-game/composer-warmup": "^1.0"
+        "php-ai/php-ml": "^0.7"
     },
     "require-dev": {
         "vimeo/psalm": "^2",
